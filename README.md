@@ -1,4 +1,4 @@
-## Parallel File Encryptor
+## File Encryptor
 
 
 ## Prerequisite to run the project
